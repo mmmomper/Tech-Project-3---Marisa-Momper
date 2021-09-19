@@ -11,7 +11,7 @@ namespace Tech_Project_3___Marisa_Momper
     {
         static void Main(string[] args)
         {
-            //Ask the user for an interger input increment value
+            //Ask the user for an integer input increment value
             Console.WriteLine("Please enter an integer value between 10 and 25 to be used as a KM increment value");
 
             //Start of try block that validates the input
