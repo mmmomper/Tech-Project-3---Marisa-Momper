@@ -71,7 +71,7 @@ namespace Tech_Project_3___Marisa_Momper
                 //if the input does not meet the above integer input requirements then a new input is requested
                 else
                 {
-                    Console.WriteLine("Please run again and enter an integer value value between 10 and 25");
+                    Console.WriteLine("Please run again and enter an integer value between 10 and 25");
                     Console.ReadKey(true);
                 }//end of else block
 
@@ -80,7 +80,7 @@ namespace Tech_Project_3___Marisa_Momper
             //start of catch block to handle all other inputs
             catch
             {
-                Console.WriteLine("Please run again and enter an integer value value between 10 and 25");
+                Console.WriteLine("Please run again and enter an integer value between 10 and 25");
                 Console.ReadKey(true);
             }//end of catch block
         }
